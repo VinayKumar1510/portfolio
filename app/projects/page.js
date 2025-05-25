@@ -8,7 +8,8 @@ const projects = [
     { src: "/chatapp.png", text: "A real-time chat application with WebSocket integration.", link: "https://chat-app-seven-red.vercel.app/" },
     { src: "/nopoverty.png", text: "A platform aimed at promoting sustainable development goals.", link: "https://no-poverty-vma5.vercel.app/" },
     { src: "/vinayblog.png", text: "A personal blogging platform with Markdown support.", link: "https://vinay-blogs.vercel.app/" },
-    { src: "/notesapp.png", text: "Create new notes and record your voice easily with this intuitive app.", link: "https://bitnotes-iota.vercel.app/" }
+    { src: "/notesapp.png", text: "Create new notes and record your voice easily with this intuitive app.", link: "https://bitnotes-iota.vercel.app/" },
+    { src: "/pdfmerger.png", text: "Through this app you can merge you pdf just by logging into our website", link: "https://pdf-merger-mauve.vercel.app/" }
 ];
 
 const Projects = () => {
