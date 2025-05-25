@@ -10,7 +10,8 @@ const projects = [
     { src: "/vinayblog.png", text: "A personal blogging platform with Markdown support.", link: "https://vinay-blogs.vercel.app/" },
     { src: "/notesapp.png", text: "Create new notes and record your voice easily with this intuitive app.", link: "https://bitnotes-iota.vercel.app/" },
     { src: "/pdfmerger.png", text: "Through this app you can merge you pdf just by logging into our website", link: "https://pdf-merger-mauve.vercel.app/" },
-    { src: "/passop.png", text: "In this website you can store your passwords.", link: "https://pass-op-seven.vercel.app/" }
+    { src: "/passop.png", text: "In this website you can store your passwords.", link: "https://pass-op-seven.vercel.app/" },
+    { src: "/links.png", text: "From this website you can reach me through different social media platforms.", link: "https://vinay-s-links.vercel.app/" }
 ];
 
 const Projects = () => {
