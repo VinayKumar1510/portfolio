@@ -42,7 +42,7 @@ const About = () => {
                         - Achieved 83 percentile in JEE Exam.
                     </p>
                     <div className='flex flex-col sm:flex-row justify-center lg:justify-start mt-6 gap-4'>
-                        <Link href="./Resume.pdf" download="Resume.pdf" target='_blank'>
+                        <Link href="./MyResume.pdf" download="Resume.pdf" target='_blank'>
                             <button className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 overflow-hidden text-xl font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-900 to-blue-900 group-hover:from-purple-900 group-hover:to-blue-900 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-900 dark:focus:ring-blue-800">
                                 <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-transparent group-hover:dark:bg-transparent">
                                     Download Resume
